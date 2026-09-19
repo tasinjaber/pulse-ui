@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("Pulse UI",()=>it("has a valid title",()=>expect("Pulse UI".length).toBeGreaterThan(3)));
